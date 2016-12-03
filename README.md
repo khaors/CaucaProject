@@ -1,2 +1,2 @@
 # CaucaProject
-Some results of the spatio-temporal clustering of precipitation data at Cauca Department
+Some results of the spatio-temporal clustering of precipitation data from Cauca Department
